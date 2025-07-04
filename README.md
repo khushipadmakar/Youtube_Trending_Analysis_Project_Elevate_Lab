@@ -9,8 +9,8 @@ Uncover patterns in trending YouTube videos by analyzing datasets from different
 ## 🛠️ Tools Used
 
 - **Python** (Pandas, Matplotlib, Seaborn, TextBlob)
-- **SQL** (SQLite via `sqlite3`)
-- **Power BI** (or Tableau) for dashboards
+- **SQL** (SQL via `MYSQL`)
+- **Power BI** for dashboards
 - **Jupyter Notebook** for exploration and scripting
 
 ---
